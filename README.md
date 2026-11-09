@@ -390,6 +390,10 @@ used to make one in every app folder, about 400 MB each. To free that space
 in an older checkout, run setup-all again, then delete the `.venv` folder
 inside each app folder.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/PaperPull/)
+
 ## Knowing when to run it again
 
 `tools/status.py` reads the state each app already keeps and reports how current
